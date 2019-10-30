@@ -1,14 +1,13 @@
-# Default starter for Gridsome
+# Website for FarnsCo
+
+This is the repo for [FarnsCo](https://farns.co).
 
 This is the project you get when you run `gridsome create new-project`.
 
-### 1. Install Gridsome CLI tool if you don't have
+### 📐 To Start Development Server
 
-`npm install --global @gridsome/cli`
+* Run `gridsome develop` to start a local dev server at `http://localhost:8080`
 
-### 2. Create a Gridsome project
+### 🔨 To Build Site for Deployment
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+* Run `gridsome build`
